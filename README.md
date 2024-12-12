@@ -1,5 +1,8 @@
 # Portfolio-Esteban
-Surviving the Titanic: An Exploratory Data Analysis
+Overview of the Projects done within my MBA 
+
+# Project 1: AWS Data Analytic Platform Part 1
+
 Objective
 
 This project performs Exploratory Data Analysis (EDA) on the Titanic dataset to uncover patterns and factors influencing passenger survival, such as gender, age, class, and fare.
