@@ -10,7 +10,7 @@ The Titanic dataset includes details of passengers aboard the RMS Titanic, such 
     Survival status (0 = No, 1 = Yes)
     Passenger class (1st, 2nd, 3rd)
     Age, gender, fare paid, and port of embarkation
-
+Picture1.png
 Methodology
 
     Data Cleaning:
