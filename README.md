@@ -1,5 +1,4 @@
 # Portfolio-Esteban
-Overview of the Projects done within my MBA 
 
 # Project 1: City of Vancouver AWS Data Analytic Platform Part 1
 
