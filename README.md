@@ -69,9 +69,6 @@ A Data Analytic Platform supporting:
 
 To enhance the AWS Data Analytic Platform by incorporating additional steps to enrich, protect, govern, and observe data. These enhancements address key requirements for improving data quality, security, and monitoring for the City of Vancouver.
 
-# EDIT THIS FOTO TO FIT THIS PART
-![Screenshots/Project Part 1 Diagram.png](https://github.com/jrz0497/Portfolio-Esteban/blob/772fcc995fdacc7e0fead93de365a468d873dce0/Screenshots/Project%20Part%201%20Diagram.png)
-
 **Methodology**
 
 1. Data Enriching
@@ -103,8 +100,9 @@ Results:
         Enabled bucket versioning for historical tracking and recovery.
         Restricted bucket access to approved users only (no public access).
         Added a replication rule to backup buckets with encryption, reducing costs for new objects.
+![Screenshots/Diseño sin título(1).png](https://github.com/jrz0497/Portfolio-Esteban/blob/4e76200bb2e94be1c542cca463a048646b77946f/Screenshots/Dise%C3%B1o%20sin%20t%C3%ADtulo(1).png)
 
-3. Data Governance
+4. Data Governance
 
     Objective: Ensure data quality and prevent exposure of sensitive information.
    
@@ -120,7 +118,7 @@ Results:
 
        Improved data accuracy and compliance with privacy standards.
 
-4. Data Observability
+5. Data Observability
 
     Objective: Monitor the platform’s performance and ensure budget adherence.
 
