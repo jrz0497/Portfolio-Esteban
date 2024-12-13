@@ -1,4 +1,4 @@
-# Portfolio-Esteban
+# Portfolio Esteban
 
 # Project 1: City of Vancouver AWS Data Analytic Platform Part 1
 
