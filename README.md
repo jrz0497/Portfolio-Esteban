@@ -20,7 +20,7 @@ The project utilizes the Issued Building Permits dataset from the City of Vancou
     Type of Work: Type of construction work associated with the permits.
     Property Use: General use classification of properties.
 
-![Screenshots/Project Part 1 Diagram.png]([https://github.com/jrz0497/Portfolio-Esteban/blob/bee693b6dea8fdd362f4cf5d3964b025bad40582/Screenshots/Picture1.png](https://github.com/jrz0497/Portfolio-Esteban/blob/772fcc995fdacc7e0fead93de365a468d873dce0/Screenshots/Project%20Part%201%20Diagram.png))
+![Screenshots/Project Part 1 Diagram.png](https://github.com/jrz0497/Portfolio-Esteban/blob/772fcc995fdacc7e0fead93de365a468d873dce0/Screenshots/Project%20Part%201%20Diagram.png)
 
 **Methodology**
 
