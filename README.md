@@ -139,9 +139,8 @@ Results:
    
    Results:
    Dashboard insights enabled better cost management and streamlined bucket monitoring.
-    
-# EDIT THIS FOTO TO FIT THIS PART
-![Screenshots/Project Part 1 Glue.png](https://github.com/jrz0497/Portfolio-Esteban/blob/e5568bb1ff7f9ecb98880c0b033ff2d297a8ab43/Screenshots/Project%20Part%201%20Glue.png)
+
+![Screenshots/dashboard.png](https://github.com/jrz0497/Portfolio-Esteban/blob/9cda9d9dfd30257b380d9797cd914cbb0c5d7ed7/Screenshots/dashboard.png)
 
 Tools and Technologies
 
