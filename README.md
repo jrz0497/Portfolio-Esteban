@@ -61,3 +61,4 @@ Key Insights
     The platform effectively handles data ingestion, profiling, cleaning, and transformation.
     Downtown Vancouver's most common permits in 2024 are categorized under [insert key insight here, e.g., "Commercial Use"].
     The platform demonstrates scalability and cost-efficiency, with potential for further enhancements in performance and sustainability.
+---
