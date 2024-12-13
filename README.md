@@ -53,7 +53,7 @@ A Data Analytic Platform supporting:
 
     Descriptive analysis (e.g., identifying most common permit categories).
     Exploratory analysis (e.g., understanding patterns by permit type and category).
-    A cost analysis showing a monthly AWS expense of approximately $8.57.
+    A cost analysis showing a monthly AWS expense of approximately $40 USD Monthly.
 
 **Key Insights**
 
