@@ -39,6 +39,8 @@ The project utilizes the Issued Building Permits dataset from the City of Vancou
     Descriptive Analysis:
         Conducted analysis in AWS Athena to answer key business questions, such as identifying the most requested permit categories.
 
+![Screenshots/Project Part 1 Glue.png](https://github.com/jrz0497/Portfolio-Esteban/blob/e5568bb1ff7f9ecb98880c0b033ff2d297a8ab43/Screenshots/Project%20Part%201%20Glue.png)
+
 Tools and Technologies
 
     AWS S3: For scalable storage of raw and cleaned datasets.
