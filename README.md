@@ -100,7 +100,7 @@ Results:
         Enabled bucket versioning for historical tracking and recovery.
         Restricted bucket access to approved users only (no public access).
         Added a replication rule to backup buckets with encryption, reducing costs for new objects.
-![Screenshots/Diseño sin título(1).png](https://github.com/jrz0497/Portfolio-Esteban/blob/4e76200bb2e94be1c542cca463a048646b77946f/Screenshots/Dise%C3%B1o%20sin%20t%C3%ADtulo(1).png)
+![Screenshots/Pipeline AWS part 2.png](https://github.com/jrz0497/Portfolio-Esteban/blob/dd1be324e2487e8051b44c4fe0775055a8984b6f/Screenshots/Pipeline%20AWS%20part%202.png)
 
 4. Data Governance
 
